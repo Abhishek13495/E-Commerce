@@ -1,6 +1,6 @@
-# E-Commerce
+## E-Commerce
  My user-friendly ecommerce platform ensures seamless shopping from anywhere. With secure payments, efficient shipping, and top brands, This website provide exceptional convenience and customer service.
-# E-Commerce Website
+## E-Commerce Website
 
 A responsive and user-friendly e-commerce website built with HTML, CSS, and JavaScript.
 
